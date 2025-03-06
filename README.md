@@ -12,7 +12,7 @@ during the winter term 2025. In case the paper gets published, it will be upload
 
 The scripts were used specifically for the paper and are therefore neither optimized nor is their output in an easy to read way.
 They can give a good overview of the quality of a CDX SBOM, however they do not check specific values, e.g. "unknown", "null", etc., to determine the accuracy of the information contained in the SBOM,
-therefore it would be advisable to add vendor specific <unknown> values for a more accurate analysis, because some SBOM vendors do include properties although their values are false or unknown.
+therefore it would be advisable to add vendor specific <unknown> values for a more accurate analysis, because some SBOM vendors do include properties even though their values are false or unknown.
 
 ### compare.py
 
